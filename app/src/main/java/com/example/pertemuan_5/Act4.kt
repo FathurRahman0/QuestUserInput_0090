@@ -31,3 +31,11 @@ import androidx.compose.material3.HorizontalDivider
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.res.colorResource
 import androidx.compose.ui.res.stringResource
+
+
+
+@Composable
+fun FormDataDiri(modifier: Modifier){
+
+}
+
